@@ -1,12 +1,12 @@
 {
-  "name": "date-range",
+  "name": "component-date-range",
+  "description": "DateRange component",
   "version": "0.0.1",
-  "devDependencies": {
-    "mocha": "*",
-    "better-assert": "*"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/component/date-range.git"
-  }
+  "keywords": [
+    "date",
+    "range",
+    "utility"
+  ],
+  "dependencies": {},
+  "license": "MIT"
 }
